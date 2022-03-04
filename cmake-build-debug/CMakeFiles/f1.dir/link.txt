@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/f1.dir/main.c.o CMakeFiles/f1.dir/scalar.c.o CMakeFiles/f1.dir/tests.c.o CMakeFiles/f1.dir/vector.c.o CMakeFiles/f1.dir/utils.c.o CMakeFiles/f1.dir/matrix.c.o CMakeFiles/f1.dir/operations.c.o  -o f1 

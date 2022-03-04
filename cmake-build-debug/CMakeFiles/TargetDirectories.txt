@@ -1,0 +1,3 @@
+/mnt/c/Desktop/SDA/Lab/f1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Desktop/SDA/Lab/f1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Desktop/SDA/Lab/f1/cmake-build-debug/CMakeFiles/f1.dir

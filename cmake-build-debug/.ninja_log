@@ -1,0 +1,8 @@
+# ninja log v5
+0	211	6681063906616186	CMakeFiles/f1.dir/scalar.c.obj	1db97fea0e9b7ccc
+25	217	6681063906636173	CMakeFiles/f1.dir/main.c.obj	290d6b7367b58739
+36	219	6681063906686186	CMakeFiles/f1.dir/vector.c.obj	2c79a6243ddada4f
+33	165	6681065614618208	CMakeFiles/f1.dir/utils.c.obj	87f0f870914c35fe
+4	168	6681066531556947	CMakeFiles/f1.dir/scalar.c.obj	1db97fea0e9b7ccc
+3	167	6681067364762812	CMakeFiles/f1.dir/tests.c.obj	bbdaf3399a272ab1
+168	512	6681067368003361	f1.exe	9f307f42f142f58c
